@@ -41,8 +41,7 @@ This interactive dashboard showcases:
 
 ## 🖼 Preview
 
-![Dashboard Preview](./images/preview_dashboard.png)
-
+![Dashboard Preview](https://github.com/noemile8240/DIABETES_ANALYSIS_VISUALIZATION/blob/main/images/DASHBOARD_IMG.png)
 ---
 
 ## 📁 Project Structure
