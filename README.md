@@ -27,7 +27,7 @@ These scripts cover topics such as:
 
 ## 📈 Interactive Dashboard
 
-👉 [View the Tableau Dashboard](https://public.tableau.com/app/profile/noemi.vargas7800/viz/Diabetes-Analysis_17425868700190/DiabetesStudyDashboards?publish=yes)![image](https://github.com/user-attachments/assets/55623cc4-0d18-4007-8075-cd47058d6158)
+👉 [View the Tableau Dashboard](https://public.tableau.com/app/profile/noemi.vargas7800/viz/Diabetes-Analysis_17425868700190/DiabetesStudyDashboards?publish=yes)
 
 
 This interactive dashboard showcases:
